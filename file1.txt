@@ -1,1 +1,4 @@
 This line is written in develop branch.
+
+This line is feature1.
+This line is also feature1.
